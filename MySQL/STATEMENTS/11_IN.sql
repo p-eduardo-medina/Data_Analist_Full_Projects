@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE user_Name IN ('JOSE','EDUARDO') ; --Selecciona los datos con user_Name = jose y Eduardo

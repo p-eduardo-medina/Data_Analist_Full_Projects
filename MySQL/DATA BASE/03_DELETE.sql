@@ -1,0 +1,1 @@
+DELETE FROM users where user_id = 7;-- Siempre con un filtrado

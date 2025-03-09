@@ -1,0 +1,1 @@
+SELECT CONCAT(user_Name,' =====D ' ,surName) AS 'Nombre Completo' FROM users;
